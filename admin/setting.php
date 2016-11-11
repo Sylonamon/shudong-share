@@ -94,7 +94,7 @@ $zzurl= $row['zzurl'];
                  <label class="lab">站点描述:</label>
                     </div>
                  <div class="col-lg-5" align="right">
-                 <textarea  name="des" class="form-control"><?php echo $kw ?></textarea>
+                 <textarea  name="des" class="form-control"><?php echo $des ?></textarea>
                     </div>
                     <div class="col-lg-3" align="right">
                 <div class="sm" align="left">用于描述站点的介绍性文字</div>
